@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=black&lines=olá!+👋;+me+chamo+Thiago!;" />
 </h1>
 
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Bem-vindo ao meu perfil do GitHub!
 
 Olá! Eu sou Thiago, um desenvolvedor de software com ampla experiência em várias linguagens e tecnologias. Este é meu espaço no GitHub, onde compartilho meus projetos e contribuições para a comunidade.
 
